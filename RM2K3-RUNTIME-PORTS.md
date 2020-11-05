@@ -21,9 +21,8 @@
 
 ## easyrpg-libretro
 ### libretro 1.9.0 
-- macOS 10.13+ ([amd64 with Metal2 Rendering](https://buildbot.libretro.com/stable/1.9.0/apple/osx/x86_64/RetroArch_Metal.dmg))
-- macOS 10.7-10.12 ([amd64](https://buildbot.libretro.com/stable/1.9.0/apple/osx/x86_64/RetroArch.dmg), [amd64 with Nvidia CG Rendering](https://buildbot.libretro.com/stable/1.9.0/apple/osx/x86_64/RetroArch_CG.dmg))
-- Mac OS X 10.5 ([PPC](https://buildbot.libretro.com/stable/1.9.0/apple/osx/ppc/RetroArch.zip))
+- [macOS 10.13+](https://buildbot.libretro.com/stable/1.9.0/apple/osx/) ([amd64 with Metal2 Rendering](https://buildbot.libretro.com/stable/1.9.0/apple/osx/x86_64/RetroArch_Metal.dmg))
+- [macOS 10.7-10.12](https://buildbot.libretro.com/stable/1.9.0/apple/osx/x86_64/) ([amd64](https://buildbot.libretro.com/stable/1.9.0/apple/osx/x86_64/RetroArch.dmg), [amd64 with Nvidia CG Rendering](https://buildbot.libretro.com/stable/1.9.0/apple/osx/x86_64/RetroArch_CG.dmg))
 - [Windows 7-10](https://buildbot.libretro.com/stable/1.9.0/windows/x86_64) ([amd64 Installer](https://buildbot.libretro.com/stable/1.9.0/windows/x86_64/RetroArch-x64-setup.exe), [amd64 portable](https://buildbot.libretro.com/stable/1.9.0/windows/x86_64/RetroArch.7z), [i386 installer](https://buildbot.libretro.com/stable/1.9.0/windows/x86/RetroArch-x86-setup.exe), [i386 portable](https://buildbot.libretro.com/stable/1.9.0/windows/x86/RetroArch.7z))
 - [iOS](https://buildbot.libretro.com/stable/1.9.0/apple/ios/RetroArch.ipa)
 - [tvOS](https://buildbot.libretro.com/stable/1.9.0/apple/tvos/RetroArch-tvOS.ipa)
