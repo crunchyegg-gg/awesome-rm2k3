@@ -14,7 +14,7 @@ A curated list of awesome tools for RPG Maker 2003
 
 ## Alternative Runtimes
  - [EasyRPG Player](https://github.com/EasyRPG/Player) - A (mostly) complete RPG Maker 2000/2003 Compatible Runtime with ports to **everything** (even [libretro](https://github.com/libretro/easyrpg-libretro)).
- - [List of Runtimes & Supported Platforms](https://github.com/crunchyegg-gg/awesome-rm2k3/blob/main/RM2K3-RUNTIME-PORTS.md)
+ - [List of Runtimes & Supported Platforms](https://github.com/crunchyegg-gg/awesome-rm2k3/blob/main/RM2K3-RUNTIME-PORTS.md) - An attempt to make a complete list of all supported platforms, achitectures, and runtimes for RM2K(3).
 
 ## Misc. Data Parsing
 - [libclf](https://github.com/EasyRPG/liblcf) - A library to handle RPG Maker 2000 and 2003 game data that can read and write LCF and XML files.
