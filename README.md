@@ -13,7 +13,7 @@ A curated list of awesome tools for RPG Maker 2003
 - [LMU2PNG](https://github.com/EasyRPG/Tools/tree/master/lmu2png) - A tool that renders LMU maps to PNG images with events as tiles support.
 
 ## Alternative Runtimes
- - [EasyRPG Player](https://github.com/EasyRPG/Player) - A (mostly) complete RPG Maker 2000/2003 Compatible Runtime with ports to **everything**
+ - [EasyRPG Player](https://github.com/EasyRPG/Player) - A (mostly) complete RPG Maker 2000/2003 Compatible Runtime with ports to **everything** (even [libretro](https://github.com/libretro/easyrpg-libretro)).
 
 ## Misc. Data Parsing
 - [libclf](https://github.com/EasyRPG/liblcf) - A library to handle RPG Maker 2000 and 2003 game data that can read and write LCF and XML files.
