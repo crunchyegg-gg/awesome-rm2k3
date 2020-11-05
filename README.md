@@ -3,7 +3,7 @@ A curated list of awesome tools for RPG Maker 2003
 
 ## Image Processing
 - [Rm2k PNG](https://github.com/silbinarywolf/rm2kpng) - A library for converting PNGs into RPG Maker 2000/2003 compatible 8-bit (256 colour) images.
-- [Rm2k Fix Watcher](https://github.com/silbinarywolf/rm2kpng) - A tool that watches your RPG Maker 2000/2003 game's directory and automagically converts incompatible images to 8-bit (256 colour), 2k(3) friendly images.
+- [Rm2k Fix Watcher](https://github.com/silbinarywolf/rm2kpng/tree/master/cmd/rm2kfixwatcher) - A tool that watches your RPG Maker 2000/2003 game's directory and automagically converts incompatible images to 8-bit (256 colour), 2k(3) friendly images.
 - [PNG2XYZ](https://github.com/EasyRPG/Tools/tree/master/png2xyz) - A tool that converts PNG images into XYZ images.
 - [XYZ2PNG](https://github.com/EasyRPG/Tools/tree/master/xyz2png) - A tool that converts XYZ images into PNG images.
 - [XYZCrush](https://github.com/EasyRPG/Tools/tree/master/xyzcrush) - A tool for comressing XYZ images.
